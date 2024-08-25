@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383847011829",
+    "project_id": "knaap-app",
+    "storage_bucket": "knaap-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383847011829:android:6530ce935e8dc45e41fcbc",
+        "android_client_info": {
+          "package_name": "com.app.knaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383847011829-5ahdgq4ne7k5udm77pg7pnbvhlkvtnvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.knaap",
+            "certificate_hash": "441b644cd358a0f5f56ff2bfd04a9048394bd757"
+          }
+        },
+        {
+          "client_id": "383847011829-oar3hb82sj4pkvamgi2v06658trru80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCCXd5U8DV1fxOmcbaIXVg2JF3RwFo7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383847011829-oar3hb82sj4pkvamgi2v06658trru80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
